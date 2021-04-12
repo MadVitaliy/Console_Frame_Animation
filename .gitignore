@@ -1,0 +1,4 @@
+/.idea
+/cmake-build-debug/*
+/bunny.mp4
+!/cmake-build-debug/Console_Frame_Animation.exe
